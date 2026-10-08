@@ -1,22 +1,21 @@
-# Juraj Jumić
+# Juraj Jumić | Senior Backend & Infrastructure Engineer
 
-Java software engineer based in Zagreb, Croatia. I build backend systems for
-insurance software and like code that is clean, reliable, and boring in the
-best way.
+Java Lead Specialist with 10+ years of experience architecting high-throughput, 
+secure distributed systems (eIDAS cryptography, 4.5k msg/sec pipelines). 
+Building reliable infrastructure by day; creating dev tools, AI agent memory architecture, 
+and home automation extensions by night.
 
-## What I work on
+## Featured Open Source Projects
 
-- **Day job:** Java backend development for insurance software
-- **Side projects:** Python, home automation, and tooling for AI agents
+### memdebug (Python)
+*An architectural tool for AI agents to inspect, diff, and restore context memory states.*
+* **Impact:** Solves context-drift and debugging friction in multi-agent LLM systems.
+* **Concepts:** State persistence, local-first architecture, system telemetry.
 
-## Projects
-
-- [memdebug](https://github.com/juraj-jumic/memdebug): see what your AI agent's
-  memory holds, what changed, and put it back. Local-first and agent-neutral.
-- [gorenje-aerogor-homeassistant](https://github.com/juraj-jumic/gorenje-aerogor-homeassistant):
-  Home Assistant integration for the Gorenje Aerogor via a USR-W600
-  RS232/RS485 to WiFi module.
+### gorenje-aerogor-homeassistant (Python)
+*Custom IoT Integration bridging industrial hardware over RS232/RS485 to Home Assistant.*
+* **Impact:** Used by homeowners to enable remote telemetry for heating pumps via serial-to-WiFi bridges.
+* **Concepts:** Low-level network protocols, serial data parsing, IoT event loops.
 
 ## Elsewhere
-
 - LinkedIn: [Juraj Jumić](https://www.linkedin.com/in/jurajjumic)
