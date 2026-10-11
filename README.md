@@ -7,6 +7,11 @@ and home automation extensions by night.
 
 ## Featured Open Source Projects
 
+### eidas-validator (Java)
+*Open-source, self-hostable validator that tells you in plain language whether a signed PDF carries a valid and qualified electronic signature under EU rules (eIDAS).*
+* **Impact:** Free alternative to paid or cloud-only validators: integrity, certificate chain, revocation and qualification against the EU trusted lists, with the document never leaving your machine.
+* **Concepts:** PAdES validation on EU DSS, EU list of trusted lists (LOTL), SSRF-hardened fetching, test corpus with expected outcomes in CI.
+
 ### memdebug (Python)
 *An architectural tool for AI agents to inspect, diff, and restore context memory states.*
 * **Impact:** Solves context-drift and debugging friction in multi-agent LLM systems.
